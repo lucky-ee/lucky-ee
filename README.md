@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Hayley</h1>
 <p align="center"> Aspiring ML computer scientist and SWE 😊
-<p align="left"> I am Applied Math and Computer Science (B.S.) student at UC Davis, and my interests lie in studying ML, LLP, and apply multidimensional dynamics/ODEs and analysis to current ML research!
+<p align="left"> I am Applied Math and Computer Science (B.S.) student at UC Davis, and my interests lie in studying ML, LLP, and applying multidimensional dynamics/ODEs and analysis to current ML research!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
